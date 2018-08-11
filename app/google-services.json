@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "827663339454",
+    "firebase_url": "https://gps-tracker-2f9be.firebaseio.com",
+    "project_id": "gps-tracker-2f9be",
+    "storage_bucket": "gps-tracker-2f9be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827663339454:android:86b0c3ccce3e35e1",
+        "android_client_info": {
+          "package_name": "jspindor.gpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827663339454-h56d3rm6spfdagv80pnaej7am6ia8s2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jspindor.gpstracker",
+            "certificate_hash": "a0c5e573c3182fd80290da95be37cf481a182a89"
+          }
+        },
+        {
+          "client_id": "827663339454-imlrbv1hesqdd5s7egiilh7rhnke90qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jspindor.gpstracker",
+            "certificate_hash": "e69efcadd2de66121901b51143848cc0d81a4d07"
+          }
+        },
+        {
+          "client_id": "827663339454-hliv844dmmlf5m10qhr5v95fgbcv3fjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRy_Mu0aN8BhAJxbjRiT4mByz_oEI-Vp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827663339454-hliv844dmmlf5m10qhr5v95fgbcv3fjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
